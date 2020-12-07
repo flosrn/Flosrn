@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/flo_srn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FFlosrn&screen_name=flo_srn)
 
-## I'm a modern web developer who love 
+### I'm a modern web developer who love:
 
 - ⚡️ Anything that deals with javascript from near or far 😄
 - 🚀 The Next.js framework 😍 
@@ -10,9 +10,7 @@
 - 💪🏻 Fitness
 - 🌱 Learning everything 🤣
 
-<br />
-
-### Languages and Tools:
+### Languages and Tools I prefer to use:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -28,10 +26,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
 
-
-### Connect with me:
+### If you want to connect with me:
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/-@flo_srn-00acee?style=flat&logo=Twitter&logoColor=white" />][twitter]&nbsp; &nbsp;
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/-@flo__srn-E1306C?style=flat&logo=Instagram&logoColor=white" />][twitter]&nbsp; &nbsp;
