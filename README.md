@@ -33,7 +33,7 @@
 ### If you want to connect with me:
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/-@flo_srn-00acee?style=flat&logo=Twitter&logoColor=white" />][twitter]&nbsp; &nbsp;
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/-@flo__srn-E1306C?style=flat&logo=Instagram&logoColor=white" />][twitter]&nbsp; &nbsp;
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/-@flo__srn-E1306C?style=flat&logo=Instagram&logoColor=white" />][instagram]&nbsp; &nbsp;
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/-Florian Séran-0072b1?style=flat&logo=Linkedin&logoColor=white" />][linkedin]&nbsp; &nbsp;
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/-flosrn.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" />][gmail]&nbsp; &nbsp;
 
@@ -53,7 +53,6 @@
 [graphql]: https://graphql.org/
 [mongodb]: https://www.mongodb.com/fr
 [twitter]: https://twitter.com/flo_srn
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://www.instagram.com/flo__srn/
 [linkedin]: https://www.linkedin.com/in/florian-seran/
 [gmail]: mailto:flosrn.dev@gmail.com
