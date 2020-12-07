@@ -42,7 +42,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-  [![Flosrn's github stats](https://github-readme-stats.vercel.app/api?username=flosrn)](https://github.com/flosrn/github-readme-stats)&nbsp; &nbsp;
+  [![Flosrn's github stats](https://github-readme-stats.vercel.app/api?username=flosrn)](https://github.com/Flosrn)&nbsp; &nbsp;
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=Flosrn.Flosrn)
 
 </details>
