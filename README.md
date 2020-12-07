@@ -1,4 +1,4 @@
-### Hi there, I'm Florian Séran - aka Flosrn 👋
+## Hi there, I'm Florian Séran - aka Flosrn 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/flo_srn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FFlosrn&screen_name=flo_srn)
 
