@@ -10,6 +10,8 @@
 - 💪🏻 Fitness
 - 🌱 Learning everything 🤣
 
+<br />
+
 ### Languages and Tools I prefer to use:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -26,6 +28,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
 
 ### If you want to connect with me:
 
@@ -33,8 +36,6 @@
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/-@flo__srn-E1306C?style=flat&logo=Instagram&logoColor=white" />][twitter]&nbsp; &nbsp;
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/-Florian Séran-0072b1?style=flat&logo=Linkedin&logoColor=white" />][linkedin]&nbsp; &nbsp;
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/-flosrn.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" />][gmail]&nbsp; &nbsp;
-
-<br />
 
 ---
 
