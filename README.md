@@ -12,7 +12,11 @@
 
 <br />
 
+---
+
 I am very curious and I love discovering new tricks and tweaks, I spend most of my time trying new things 🧑🏻‍🔧
+
+---
 
 <br />
 
