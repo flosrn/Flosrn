@@ -36,14 +36,14 @@ I am very curious and I love discovering new tricks and tweaks, I spend most of 
 [<img align="left" alt="Webstorm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/WebStorm.png/1200px-WebStorm.png" />][webstorm]
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-[<img align="left" alt="GitHub" width="26px" src="https://d2zv2ciw0ln4h1.cloudfront.net/uploads/hp-logo-hero_c94026101f.svg" />][macbook]
+[<img align="left" alt="GitHub" width="26px" src="https://d2zv2ciw0ln4h1.cloudfront.net/uploads/hp-logo-hero_c94026101f.svg" />][strapi]
 
 
 <br />
 
 ### I'm currently working on:
 
-[<img align="left" alt="GitHub" width="26px" src="https://consomac.fr/shop/images/products/mbp16touch-space-select-201911_GEO_EMEA_LANG_FR.png" />][strapi]
+[<img align="left" alt="GitHub" width="26px" src="https://consomac.fr/shop/images/products/mbp16touch-space-select-201911_GEO_EMEA_LANG_FR.png" />][macbook]
 
 
 <br />
