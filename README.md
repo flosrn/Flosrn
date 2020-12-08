@@ -24,26 +24,26 @@ I am very curious and I love discovering new tricks and tweaks, I spend most of 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="Next.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" />][nextjs]
+[<img align="left" alt="Next.js" width="26px" src="./assets/nextjs-logo.png?raw=true" />][nextjs]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/graphql-compose/graphql-compose/master/docs/logo.png" />][graphql]
-[<img align="left" alt="MongoDB" width="26px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" />][mongodb]
+[<img align="left" alt="MongoDB" width="26px" src="./assets/mongodb-logo.png?raw=true" />][mongodb]
 
 <br />
 
 ### Tools I prefer to use:
 
-[<img align="left" alt="Webstorm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/WebStorm.png/1200px-WebStorm.png" />][webstorm]
+[<img align="left" alt="Webstorm" width="26px" src="./assets/webstorm-logo.png?raw=true" />][webstorm]
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-[<img align="left" alt="Strapi" width="26px" src="https://d2zv2ciw0ln4h1.cloudfront.net/uploads/hp-logo-hero_c94026101f.svg" />][strapi]
+[<img align="left" alt="Strapi" width="26px" src="./assets/strapi-logo.svg?raw=true" />][strapi]
 
 <br />
 
 ### My favorite UI libraries:
 
-[<img align="left" alt="Material-ui" width="26px" src="https://material-ui.com/static/logo.png" />][material-ui]
-[<img align="left" alt="TailwindCSS" width="26px" height="26px" src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" />][tailwindcss]
+[<img align="left" alt="Material-ui" width="26px" src="./assets/materialui-logo.png?raw=true" />][material-ui]
+[<img align="left" alt="TailwindCSS" width="26px" height="26px" src="./assets/tailwindcss-logo.png?raw=true" />][tailwindcss]
 
 <br />
 
