@@ -43,7 +43,7 @@ I am very curious and I love discovering new tricks and tweaks, I spend most of 
 ### My favorite UI libraries:
 
 [<img align="left" alt="Material-ui" width="26px" src="./assets/materialui-logo.png?raw=true" />][material-ui]
-[<img align="left" alt="TailwindCSS" width="26px" height="26px" src="./assets/tailwindcss-logo.png?raw=true" />][tailwindcss]
+[<img align="left" alt="TailwindCSS" width="26px" src="./assets/tailwindcss-logo.png?raw=true" />][tailwindcss]
 
 <br />
 
