@@ -36,14 +36,20 @@ I am very curious and I love discovering new tricks and tweaks, I spend most of 
 [<img align="left" alt="Webstorm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/WebStorm.png/1200px-WebStorm.png" />][webstorm]
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-[<img align="left" alt="GitHub" width="26px" src="https://d2zv2ciw0ln4h1.cloudfront.net/uploads/hp-logo-hero_c94026101f.svg" />][strapi]
+[<img align="left" alt="Strapi" width="26px" src="https://d2zv2ciw0ln4h1.cloudfront.net/uploads/hp-logo-hero_c94026101f.svg" />][strapi]
 
+<br />
+
+### My favorite UI libraries:
+
+[<img align="left" alt="Material-ui" width="26px" src="https://material-ui.com/static/logo.png" />][material-ui]
+[<img align="left" alt="TailwindCSS" width="26px" height="26px" src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" />][tailwindcss]
 
 <br />
 
 ### I'm currently working on:
 
-[<img align="left" alt="GitHub" width="26px" src="https://consomac.fr/shop/images/products/mbp16touch-space-select-201911_GEO_EMEA_LANG_FR.png" />][macbook]
+[<img align="left" alt="MacBook pro 16" width="26px" src="https://consomac.fr/shop/images/products/mbp16touch-space-select-201911_GEO_EMEA_LANG_FR.png" />][macbook]
 
 
 <br />
@@ -74,9 +80,13 @@ I am very curious and I love discovering new tricks and tweaks, I spend most of 
 
 [webstorm]: https://www.jetbrains.com/fr-fr/webstorm/
 [strapi]: https://strapi.io/
-[macbook]: https://www.apple.com/fr/shop/buy-mac/macbook-pro/16-pouces
 
-[twitter]: https://twitter.com/flo_srn
+[material-ui]: https://material-ui.com/ 
+[tailwindcss]: https://tailwindcss.com/
+
+[macbook]: https://www.apple.com/fr/shop/buy-mac/macbook-pro/16-pouces/
+
+[twitter]: https://twitter.com/flo_srn/
 [instagram]: https://www.instagram.com/flo__srn/
 [linkedin]: https://www.linkedin.com/in/florian-seran/
-[gmail]: mailto:flosrn.dev@gmail.com
+[gmail]: mailto:flosrn.dev@gmail.com/
